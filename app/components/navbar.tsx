@@ -26,7 +26,7 @@ export default function Navbar() {
         {/* Menü (masaüstünde görünür) */}
         <ul className="hidden md:flex space-x-6 text-white">
           <li><Link href="/" className="hover:text-gray-400 transition">Anasayfa</Link></li>
-          <li><Link href="/aboutme" className="hover:text-gray-400 transition">Hakkımızda</Link></li>
+          <li><Link href="/aboutme" className="hover:text-gray-400 transition">Hakkımda</Link></li>
           <li><Link href="/contact" className="hover:text-gray-400 transition">İletişim</Link></li>
           <li><Link href="/projects" className="hover:text-gray-400 transition">Projeler</Link></li>
         </ul>
@@ -36,7 +36,7 @@ export default function Navbar() {
       {isOpen && (
         <ul className="md:hidden bg-black border-t border-gray-800 text-center">
           <li className="py-2"><Link href="/" className="block hover:bg-gray-900 text-white" onClick={() => setIsOpen(false)}>Anasayfa</Link></li>
-          <li className="py-2"><Link href="/aboutme" className="block hover:bg-gray-900 text-white" onClick={() => setIsOpen(false)}>Hakkımızda</Link></li>
+          <li className="py-2"><Link href="/aboutme" className="block hover:bg-gray-900 text-white" onClick={() => setIsOpen(false)}>Hakkımda</Link></li>
           <li className="py-2"><Link href="/contact" className="block hover:bg-gray-900 text-white" onClick={() => setIsOpen(false)}>İletişim</Link></li>
           <li className="py-2"><Link href="/projects" className="block hover:bg-gray-900 text-white" onClick={() => setIsOpen(false)}>Projeler</Link></li>
         </ul>

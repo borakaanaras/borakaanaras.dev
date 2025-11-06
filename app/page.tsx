@@ -20,6 +20,8 @@ export default function HomePage() {
         className=" items-center rounded-3xl border border-slate-400 py-4 px-6 text-center text-md font-semibold text-gray-300  0 bg-transparent transition-all focus:outline-none focus:ring-2 focus:ring-cyan-300 focus:ring-offset-0 hover:bg-gradient-to-r hover:from-sky-500 hover:via-cyan-400 hover:to-emerald-500 hover:text-white hover:opacity-60 hover:shadow-xl hover:shadow-emerald-500/40 active:opacity-70 disabled:pointer-events-none disabled:opacity-70" type="button">
       
 ▶︎ Discover  </a>
+
+<h1 className="pt-20 flex justify-center text-3xl"> Buraya Çok Yakında İçerik Gelecek!</h1>
       </div>
     </main>
   );
