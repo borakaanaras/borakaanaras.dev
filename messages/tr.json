@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "home": "Anasayfa",
+    "about": "Hakkımda",
+    "contact": "İletişim",
+    "projects": "Projeler"
+  },
+  "home": {
+    "greeting": "Merhaba, Ben Bora 👋",
+    "tagline1": "Kullanıcı ve ",
+    "tagline3": " ",
+    "tagline4": " projeler geliştiriyorum.",
+    "highlight1": "Görsel odaklı",
+    "highlight2": "",
+    "discover": "Keşfet",
+    "comingSoon": "Buraya Çok Yakında İçerik Gelecek!"
+  },
+  "footer": {
+    "role": "Frontend Developer",
+    "menu": "Menü",
+    "links": "Linklerim",
+    "copyright": "Tüm hakları saklıdır."
+  },
+  "about": {
+    "title": "Bora Kaan Aras",
+    "role": "Frontend Developer",
+    "p1Start": "Ben Bora, ",
+    "p1End": " yüksek lisans öğrencisiyim. Kullanıcı deneyimi, yaratıcılık ve işlevselliği ön plana alarak yenilikçi projeler geliştirmeye çalışıyor; öğrenmeye olan merakımla kendimi sürekli geliştirmeye devam ediyorum.",
+    "p2Start": "",
+    "p2End": " alanlarındaki deneyimlerim, web ve mobil projelere hem teknik hem de estetik bir bakış kazandırmamı sağlıyor. Bu sayede kullanıcı odaklı, etkileyici arayüzler geliştiriyor ve işimi tutkuyla sürdürüyorum.",
+    "p3Start": "Ayrıca, kurucusu olduğum ",
+    "p3End": " isimli giyim markasıyla e-ticaret alanında aktif olarak ürün tasarımı, üretim ve satış süreçlerini yönetiyorum. Bu deneyim, yazılımın yanı sıra ",
+    "p3End2": " konularında da değerli bir perspektif kazanmamı sağladı.",
+    "highlight1": "Akıllı Sistemler Mühendisliği",
+    "highlight2": "Frontend ve UI/UX tasarımı",
+    "highlight3": "Duck&Puff",
+    "highlight4": "pazarlama ve marka yönetimi",
+    "ctaContact": "İletişime geç",
+    "ctaProjects": "Projeler",
+    "skillsTitle": "Yetenekler, Araçlar ve Teknolojiler"
+  },
+  "projects": {
+    "title": "Projeler",
+    "subtitle": "Bu sayfada üzerinde çalıştığım bazı projeleri bulabilirsiniz.",
+    "onDateDesc": "Kullanıcıların yakınlarındaki sosyal etkinlikleri keşfedebileceği, etkinliklere katılabileceği ve benzer ilgi alanlarına sahip kişilerle eşleşebileceği bir uygulama.",
+    "onEarthDesc": "On Earth, Türkiye ve dünyadan şehirleri keşfetmenizi sağlayan kapsamlı bir şehir rehberi uygulamasıdır. Şehirlerin tarihi, kültürü, yemekleri ve gezilecek yerleri hakkında detaylı bilgiler sunar.",
+    "clickHint": "Detaylar ve kaynak kodlara erişmek için lütfen tıklayınız*"
+  },
+  "contact": {
+    "title": "İletişim",
+    "successTitle": "Mesajınız başarıyla gönderildi!",
+    "successSub": "En kısa sürede size dönüş yapacağım.",
+    "errorMsg": "Bir hata oluştu. Lütfen tekrar deneyin.",
+    "labelName": "Adınız",
+    "labelEmail": "E-posta Adresiniz",
+    "labelSubject": "Konu",
+    "labelMessage": "Mesajınız",
+    "placeholderName": "Adınız",
+    "placeholderEmail": "ornek@email.com",
+    "placeholderSubject": "örn. iş birliği teklifi",
+    "placeholderMessage": "Mesajınızı buraya yazın...",
+    "submit": "Mesaj Gönder",
+    "sending": "Gönderiliyor..."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "projects": "Projects"
+  },
+  "home": {
+    "greeting": "Hi, I'm Bora 👋",
+    "tagline1": "I build User and ",
+    "tagline3": " ",
+    "tagline4": " Projects.",
+    "highlight1": "Visual-focused",
+    "highlight2": "",
+    "discover": "Discover",
+    "comingSoon": "Content coming here very soon!"
+  },
+  "footer": {
+    "role": "Frontend Developer",
+    "menu": "Menu",
+    "links": "My Links",
+    "copyright": "All rights reserved."
+  },
+  "about": {
+    "title": "Bora Kaan Aras",
+    "role": "Frontend Developer",
+    "p1Start": "I'm Bora, a master's student in ",
+    "p1End": ". I focus on user experience, creativity and functionality to build innovative projects, and I keep improving myself with a curiosity for learning.",
+    "p2Start": "My experience in ",
+    "p2End": " gives me both a technical and aesthetic perspective on web and mobile projects. I build user-focused, impactful interfaces and love what I do.",
+    "p3Start": "I also run ",
+    "p3End": ", a clothing brand I founded, managing product design, production and sales in e-commerce. This has given me a valuable perspective on ",
+    "p3End2": " alongside software.",
+    "highlight1": "Intelligent Systems Engineering",
+    "highlight2": "Frontend and UI/UX design",
+    "highlight3": "Duck&Puff",
+    "highlight4": "marketing and brand management",
+    "ctaContact": "Get in touch",
+    "ctaProjects": "Projects",
+    "skillsTitle": "Skills, Tools & Technologies"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Here are some of the projects I've been working on.",
+    "onDateDesc": "An app that lets users discover social events nearby, join events and match with people who share similar interests.",
+    "onEarthDesc": "On Earth is a city guide app for exploring cities in Turkey and around the world, with detailed information on history, culture, food and places to visit.",
+    "clickHint": "Click for details and source code*"
+  },
+  "contact": {
+    "title": "Contact",
+    "successTitle": "Your message was sent successfully!",
+    "successSub": "I'll get back to you as soon as possible.",
+    "errorMsg": "Something went wrong. Please try again.",
+    "labelName": "Your name",
+    "labelEmail": "Your email",
+    "labelSubject": "Subject",
+    "labelMessage": "Your message",
+    "placeholderName": "Your name",
+    "placeholderEmail": "example@email.com",
+    "placeholderSubject": "e.g. collaboration offer",
+    "placeholderMessage": "Write your message here...",
+    "submit": "Send message",
+    "sending": "Sending..."
+  }
+}
